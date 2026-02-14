@@ -14,9 +14,12 @@ for i in range(m):
 for i in range(1, n+1):
     lst[i].sort()
 
+ans_dfs = []
+ans_bfs = []
+
 def dfs(v):
     visited[v] = True
-    print(v, end= ' ')
+    ans_dfs.append(v)
     for next_node in lst[v]:
         if not visited[next_node]:
             dfs(next_node)
@@ -29,14 +32,17 @@ def bfs(v):
     visited[v] = True
     while queue:
         v=queue.popleft()
-        print(v, end=' ')
+        ans_bfs.append(v)
         for next_node in lst[v]:
             if not visited[next_node]:
                 visited[next_node] = True
                 queue.append(next_node)
-print()
+
 visited= [False] * (n+1)
 bfs(v)
 
+print(*ans_dfs)
+print(*ans_bfs)
 #dfs, bfs 문제는 처음이라 챗지피티의 도움을 받아 이해해본다.
-#dfs는 재귀로, bfs는 큐(덱)을 이용한다. 
+#dfs는 재귀로, bfs는 큐(덱)을 이용한다.
+#*lst를 하면 대괄호, 쉼표 없이 나옴
