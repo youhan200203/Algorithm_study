@@ -7,5 +7,8 @@ WITH cte AS (
 SELECT id, COUNT(*) AS num
 FROM cte
 GROUP BY id
-ORDER BY num DESC
-LIMIT 1
+HAVING num >= ALL (
+    SELECT COUNT(*)
+    FROM cte
+    GROUP BY id
+)
