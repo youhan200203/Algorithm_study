@@ -26,4 +26,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1907-count-salary-categories](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Medium/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/youhan200203/Algorithm_study/tree/master/1934-confirmation-rate) |
 | [3475-dna-pattern-recognition](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Medium/3475-dna-pattern-recognition/) | Medium |
+| [3497-analyze-subscription-conversion](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Medium/3497-analyze-subscription-conversion/) | Medium |
 <!---LeetCode Topics End-->
