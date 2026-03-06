@@ -9,6 +9,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0180-consecutive-numbers](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Medium/0180-consecutive-numbers/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/youhan200203/Algorithm_study/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/youhan200203/Algorithm_study/tree/master/0584-find-customer-referee) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Medium/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0626-exchange-seats](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Medium/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Medium/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Medium/1070-product-sales-analysis-iii/) | Medium |
