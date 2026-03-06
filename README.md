@@ -29,4 +29,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3220-odd-and-even-transactions](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Medium/3220-odd-and-even-transactions/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Medium/3475-dna-pattern-recognition/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Medium/3497-analyze-subscription-conversion/) | Medium |
+| [3554-find-category-recommendation-pairs](https://github.com/youhan200203/Algorithm_study/tree/main/LeetCode/Hard/3554-find-category-recommendation-pairs/) | Hard |
 <!---LeetCode Topics End-->
